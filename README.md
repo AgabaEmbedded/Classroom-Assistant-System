@@ -10,7 +10,7 @@ Built with **Streamlit**, **DeepFace**, **MTCNN**, and **TensorFlow**, this app 
 ![DeepFace](https://img.shields.io/badge/DeepFace-latest-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## OBJECTIVES:
+## Objectives:
 * To obtain and preprocess emotion dataset.
 * To build and train emotion recognition system based on the collected data.
 * To development attendance and emotion management system based on the model in 
